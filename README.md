@@ -173,10 +173,10 @@ Prior to the RL framework, multiple hyperparameter optimization strategies were 
 
 This research is being conducted at **Vidyashilp University, Bangalore**, under faculty supervision in the Deep Learning Research Lab, as part of independent research into efficient AI for edge deployment.
 
-**Ayush Kumar**
+**Pruthviraj Shinde **
 B.Tech Computer Science & Data Science (with Finance minor), Year 3
-2023ayush.kumar@vidyashilp.edu.in
-🔗 *[LinkedIn — https://www.linkedin.com/in/ayush-kumar-027ab21b3/*
+
+🔗 *[LinkedIn — https://www.linkedin.com/in/pruthviraj-shinde-32027728a/*
 
 ---
 
